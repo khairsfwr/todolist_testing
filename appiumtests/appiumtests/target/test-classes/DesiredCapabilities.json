@@ -1,0 +1,38 @@
+[
+	{
+		"name": "device1",
+		"caps": {
+			"udid": "emulator-5554",
+			"platformName": "Android",
+			"platformVersion": "9.0.0",
+			"deviceName": "AOSP on IA Emulator",
+			"appPackage": "com.android.calculator2",
+			"appActivity": "com.android.calculator2.Calculator",
+			"automationName": "UiAutomator2"
+		}
+	},
+	{
+		"name": "device2",
+		"caps": {
+			"udid": "emulator-5554",
+			"platformName": "Android",
+			"platformVersion": "9.0.0",
+			"deviceName": "AOSP on IA Emulator",
+			"appPackage": "com.splendapps.splendo",
+			"appActivity": "com.splendapps.splendo.MainActivity",
+			"automationName": "UiAutomator2"
+		}
+	},
+	{
+		"name": "device3",
+		"caps": {
+			"udid": "emulator-5554",
+			"platformName": "Android",
+			"platformVersion": "9.0.0",
+			"deviceName": "Android SDK built for x86_64",
+			"appPackage": "com.splendapps.splendo",
+			"appActivity": "com.splendapps.splendo.MainActivity",
+			"automationName": "UiAutomator2"
+		}
+	}
+]

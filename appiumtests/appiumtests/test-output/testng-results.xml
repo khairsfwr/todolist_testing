@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-20T00:15:40 MYT" name="Default suite" finished-at="2021-08-20T00:18:42 MYT" duration-ms="181970">
+    <groups>
+    </groups>
+    <test started-at="2021-08-20T00:15:40 MYT" name="Default test" finished-at="2021-08-20T00:18:42 MYT" duration-ms="181970">
+      <class name="todolist.ToDoList">
+        <test-method is-config="true" signature="setup()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:15:31 MYT" name="setup" finished-at="2021-08-20T00:15:40 MYT" duration-ms="9162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="openApp()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:15:40 MYT" name="openApp" finished-at="2021-08-20T00:15:40 MYT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:15:40 MYT" name="beforeMethod" finished-at="2021-08-20T00:15:42 MYT" duration-ms="1818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc1()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:15:42 MYT" name="tc1" finished-at="2021-08-20T00:15:45 MYT" duration-ms="2958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:15:45 MYT" name="afterMethod" finished-at="2021-08-20T00:15:45 MYT" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:15:45 MYT" name="beforeMethod" finished-at="2021-08-20T00:15:47 MYT" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc10()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:15:47 MYT" name="tc10" finished-at="2021-08-20T00:16:20 MYT" duration-ms="33433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:20 MYT" name="afterMethod" finished-at="2021-08-20T00:16:20 MYT" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:20 MYT" name="beforeMethod" finished-at="2021-08-20T00:16:22 MYT" duration-ms="1915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc11()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:22 MYT" name="tc11" finished-at="2021-08-20T00:16:37 MYT" duration-ms="14411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:37 MYT" name="afterMethod" finished-at="2021-08-20T00:16:37 MYT" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:37 MYT" name="beforeMethod" finished-at="2021-08-20T00:16:39 MYT" duration-ms="1796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc12()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:39 MYT" name="tc12" finished-at="2021-08-20T00:16:49 MYT" duration-ms="10289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc12 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:49 MYT" name="afterMethod" finished-at="2021-08-20T00:16:49 MYT" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:49 MYT" name="beforeMethod" finished-at="2021-08-20T00:16:51 MYT" duration-ms="1901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc2()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:51 MYT" name="tc2" finished-at="2021-08-20T00:16:56 MYT" duration-ms="4547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:56 MYT" name="afterMethod" finished-at="2021-08-20T00:16:56 MYT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:56 MYT" name="beforeMethod" finished-at="2021-08-20T00:16:58 MYT" duration-ms="2061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc3()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:16:58 MYT" name="tc3" finished-at="2021-08-20T00:17:04 MYT" duration-ms="6094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:04 MYT" name="afterMethod" finished-at="2021-08-20T00:17:04 MYT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:04 MYT" name="beforeMethod" finished-at="2021-08-20T00:17:06 MYT" duration-ms="1984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc4()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:06 MYT" name="tc4" finished-at="2021-08-20T00:17:16 MYT" duration-ms="10009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:16 MYT" name="afterMethod" finished-at="2021-08-20T00:17:16 MYT" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:16 MYT" name="beforeMethod" finished-at="2021-08-20T00:17:18 MYT" duration-ms="1798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc5()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:18 MYT" name="tc5" finished-at="2021-08-20T00:17:29 MYT" duration-ms="11583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:29 MYT" name="afterMethod" finished-at="2021-08-20T00:17:29 MYT" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:29 MYT" name="beforeMethod" finished-at="2021-08-20T00:17:31 MYT" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc6()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:31 MYT" name="tc6" finished-at="2021-08-20T00:17:49 MYT" duration-ms="17409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:49 MYT" name="afterMethod" finished-at="2021-08-20T00:17:49 MYT" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:49 MYT" name="beforeMethod" finished-at="2021-08-20T00:17:51 MYT" duration-ms="1854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc7()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:51 MYT" name="tc7" finished-at="2021-08-20T00:17:54 MYT" duration-ms="3838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:54 MYT" name="afterMethod" finished-at="2021-08-20T00:17:55 MYT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:55 MYT" name="beforeMethod" finished-at="2021-08-20T00:17:56 MYT" duration-ms="1700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc8()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:17:56 MYT" name="tc8" finished-at="2021-08-20T00:18:27 MYT" duration-ms="30429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:18:27 MYT" name="afterMethod" finished-at="2021-08-20T00:18:27 MYT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:18:27 MYT" name="beforeMethod" finished-at="2021-08-20T00:18:29 MYT" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc9()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:18:29 MYT" name="tc9" finished-at="2021-08-20T00:18:42 MYT" duration-ms="13130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:18:42 MYT" name="afterMethod" finished-at="2021-08-20T00:18:42 MYT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:18:42 MYT" name="closeApp" finished-at="2021-08-20T00:18:42 MYT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="teardownEnd()[pri:0, instance:todolist.ToDoList@71a8adcf]" started-at="2021-08-20T00:18:42 MYT" name="teardownEnd" finished-at="2021-08-20T00:18:42 MYT" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownEnd -->
+      </class> <!-- todolist.ToDoList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

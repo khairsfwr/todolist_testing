@@ -1,0 +1,80 @@
+[
+	{
+		"tcId": "TDL-TC-1001",
+		"data": {
+			"What is to be done": null,
+			"Due Date": {
+				"Date": null,
+				"Time": null
+			},
+			"Repeat": null,
+			"Add to List": null,
+			"New list": null
+		}
+	},
+	{
+		"tcId": "TDL-TC-1002",
+		"data": {
+			"What is to be done": null,
+			"Due Date": {
+				"Date": null,
+				"Time": null
+			},
+			"Repeat": null,
+			"Add to List": "Default",
+			"New list": null
+		}
+	},
+	{
+		"tcId": "TDL-TC-1003",
+		"data": {
+			"What is to be done": "New task list is added",
+			"Due Date": {
+				"Date": null,
+				"Time": null
+			},
+			"Repeat": null,
+			"Add to List": "Default",
+			"New list": null
+		}
+	},
+	{
+		"tcId": "TDL-TC-1004",
+		"data": {
+			"What is to be done": "New task list is added 2",
+			"Due Date": {
+				"Date": "22 August 2021",
+				"Time": null
+			},
+			"Repeat": null,
+			"Add to List": "Default",
+			"New list": null
+		}
+	},
+	{
+		"tcId": "TDL-TC-1005",
+		"data": {
+			"What is to be done": "New task list is added 3",
+			"Due Date": {
+				"Date": "23 August 2021",
+				"Time": null
+			},
+			"Repeat": null,
+			"Add to List": "Personal",
+			"New list": null
+		}
+	},
+	{
+		"tcId": "TDL-TC-1006",
+		"data": {
+			"What is to be done": "New task list is added 4",
+			"Due Date": {
+				"Date": "30 August 2021",
+				"Time": "8:30:00 AM"
+			},
+			"Repeat": "Once a Day",
+			"Add to List": "Personal",
+			"New list": null
+		}
+	}
+]
